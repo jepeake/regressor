@@ -1,0 +1,1 @@
+size_batch = 17, learning_rate = 0.001
